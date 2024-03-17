@@ -31,6 +31,10 @@ const data = [
       "title": "Card 8",
       "image": "https://via.placeholder.com/300"
     },
+    {
+      "title": "Card 9",
+      "image": "https://via.placeholder.com/300"
+    },
   ]
   
   
