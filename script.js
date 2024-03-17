@@ -33,7 +33,7 @@ const data = [
     },
     {
       "title": "Card 9",
-      "image": "https://via.placeholder.com/300"
+      "image": "./img/descarga.jpg"
     },
   ]
   
